@@ -1,5 +1,5 @@
 var sec = 0;
-var min = 0;
+var min = 0; 
 var msec = 0;
 
 var displaySec = 0;
